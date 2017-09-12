@@ -10,7 +10,7 @@ void conversionNumbers(int number);
 
 int main ()
 {
-  int number;
+  int number = 0;
 
   printf("Введите целое десятичное число, больше нуля:\n");
   scanf("%i", &number);
